@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Loan app</string>
+    <string name="lbl_cost">Cost of loan</string>
+    <string name="lbl_loan">Loan amount</string>
+    <string name="lbl_year">Years</string>
+    <string name="lbl_term">Periods/year</string>
+    <string name="lbl_rate">Interest rate</string>
+    <string name="lbl_paym">Payment</string>
+    <string name="lbl_cler">Clear</string>
+    <string name="lbl_calc">Calculate</string>
+    <string name="lbl_plan">Amortisation</string>
+    <string name="per">Period</string>
+    <string name="intr">Interest</string>
+    <string name="rep">Repayment</string>
+    <string name="outs">Outstanding</string>
+    <string name="ilvc">Illegal value for cost</string>
+    <string name="ilvl">Illegal value for loan</string>
+    <string name="iir">Illegal interest rate</string>
+    <string name="iny">Illegal number of years</string>
+    <string name="inp">Illegal number of periods</string>
+</resources>
